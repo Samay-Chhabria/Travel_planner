@@ -1,0 +1,17 @@
+/* Design tokens and shared CSS variables for the Travel Planner UI. */
+:root {
+  --color-background: #faf7f2;
+  --color-surface: #ffffff;
+  --color-primary: #222222;
+  --color-secondary: #717171;
+  --color-accent: #2f6d6a;
+  --color-highlight: #f28c6b;
+  --color-border: #ede5da;
+  --color-error: #ef4444;
+  --color-star: #f59e0b;
+  --color-rain: #3b82f6;
+  --radius-card: 1.125rem;
+  --radius-pill: 9999px;
+  --shadow-card: 0 4px 24px rgba(34, 34, 34, 0.06);
+  --transition-base: 200ms ease;
+}
